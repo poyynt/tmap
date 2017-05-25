@@ -1,5 +1,5 @@
 # TMAP
-A GRUB theme.
+A GRUB theme, by me (Mr. Parsa Torbati) and Mr. Alireza Mirshafiyan.
 You will like this.
 After extraction, with
 "tar -xf tmap.tar.bz2" (without qoutes)
