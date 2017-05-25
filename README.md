@@ -1,4 +1,4 @@
-# tmap
+# TMAP
 A GRUB theme.
 You will like this.
 After extraction, with
